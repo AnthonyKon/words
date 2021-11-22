@@ -1,0 +1,3 @@
+C:/CP2/koni0028/words/cmake-build-debug/CMakeFiles/words.dir
+C:/CP2/koni0028/words/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CP2/koni0028/words/cmake-build-debug/CMakeFiles/rebuild_cache.dir

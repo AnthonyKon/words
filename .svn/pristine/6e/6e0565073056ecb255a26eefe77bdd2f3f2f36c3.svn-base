@@ -1,0 +1,48 @@
+/**
+ * Computer Programming 2 (COMP2711, COMP8801)
+ * Practical 4: Words
+ */
+
+#include <iostream>
+#include <string>
+#include <unistd.h>
+
+using namespace std;
+
+int main(int argc, char** argv)
+{
+    enum {
+        total,
+        unique
+    } mode = total;
+
+    for (int c; (c = getopt(argc, argv, "tu")) != -1;) {
+        switch (c) {
+        case 't':
+            mode = total;
+            break;
+        case 'u':
+            mode = unique;
+            break;
+        }
+    }
+    argc -= optind;
+    argv += optind;
+
+    string word;
+    int count = 0;
+    while (cin >> word) {
+        count += 1;
+    }
+
+    switch (mode) {
+    case total:
+        cout << "Total: " << count << '\n';
+        break;
+    case unique:
+        cout << "Unique: " << "** missing **" << '\n';
+        break;
+    }
+
+    return 0;
+}

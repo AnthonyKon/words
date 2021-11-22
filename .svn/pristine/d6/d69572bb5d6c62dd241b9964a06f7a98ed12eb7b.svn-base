@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="words" targetName="words" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="410fff6c-81aa-407f-8a7a-ea502b43846c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/words.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1c6mTkUFg8GUG0vAIdWHNg6U17w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="words" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="words" TARGET_NAME="words" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="words" RUN_TARGET_NAME="words">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\antho\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\CP2\koni0028\words" />
+          <option name="myCopyRoot" value="C:\CP2\koni0028\words" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\CP2\koni0028\words" />
+          <option name="myCopyRoot" value="C:\CP2\koni0028\words" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="410fff6c-81aa-407f-8a7a-ea502b43846c" name="Default Changelist" comment="" />
+      <created>1589857426824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589857426824</updated>
+      <workItem from="1589857430164" duration="796000" />
+      <workItem from="1601191241323" duration="1617000" />
+      <workItem from="1601280450938" duration="2957000" />
+      <workItem from="1601877477073" duration="5133000" />
+      <workItem from="1602065394178" duration="4850000" />
+      <workItem from="1602072026982" duration="3763000" />
+      <workItem from="1602159379860" duration="563000" />
+      <workItem from="1602163393955" duration="915000" />
+      <workItem from="1602493244103" duration="3877000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added a vector&lt;string&gt; as well as an if statement.">
+      <created>1601192034634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601192034634</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Incorrect placement of count += 1;">
+      <created>1601192123788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601192123788</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added the incrementation of uniqueItems.">
+      <created>1601192229356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601192229356</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Level 2 completed &amp; partially level three.">
+      <created>1602074100589</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602074100589</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added a vector&lt;string&gt; as well as an if statement." />
+    <MESSAGE value="Incorrect placement of count += 1;" />
+    <MESSAGE value="Added the incrementation of uniqueItems." />
+    <MESSAGE value="Level 2 completed &amp; partially level three." />
+    <option name="LAST_COMMIT_MESSAGE" value="Level 2 completed &amp; partially level three." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601192569328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1601192569328" />
+    <state x="842" y="117" key="CommitChangelistDialog2" timestamp="1602074099713">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="117" key="CommitChangelistDialog2/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1602074099713" />
+    <state width="1877" height="512" key="GridCell.Tab.0.bottom" timestamp="1602497024838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="512" key="GridCell.Tab.0.bottom/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1602497024838" />
+    <state width="1877" height="512" key="GridCell.Tab.0.center" timestamp="1602497024838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="512" key="GridCell.Tab.0.center/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1602497024838" />
+    <state width="1877" height="512" key="GridCell.Tab.0.left" timestamp="1602497024838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="512" key="GridCell.Tab.0.left/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1602497024838" />
+    <state width="1877" height="512" key="GridCell.Tab.0.right" timestamp="1602497024838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="512" key="GridCell.Tab.0.right/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1602497024838" />
+  </component>
+</project>

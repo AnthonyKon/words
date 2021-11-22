@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="words" targetName="words" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="410fff6c-81aa-407f-8a7a-ea502b43846c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1c6mTkUFg8GUG0vAIdWHNg6U17w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="words" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="words" TARGET_NAME="words" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="words" RUN_TARGET_NAME="words">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\antho\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\CP2\koni0028\words" />
+          <option name="myCopyRoot" value="C:\CP2\koni0028\words" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\CP2\koni0028\words" />
+          <option name="myCopyRoot" value="C:\CP2\koni0028\words" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="410fff6c-81aa-407f-8a7a-ea502b43846c" name="Default Changelist" comment="" />
+      <created>1589857426824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589857426824</updated>
+      <workItem from="1589857430164" duration="796000" />
+      <workItem from="1601191241323" duration="795000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added a vector&lt;string&gt; as well as an if statement.">
+      <created>1601192034634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601192034634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added a vector&lt;string&gt; as well as an if statement." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a vector&lt;string&gt; as well as an if statement." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="842" y="117" key="CommitChangelistDialog2" timestamp="1601192033570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="117" key="CommitChangelistDialog2/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1601192033570" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1601191989955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1601191989955" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1601191989955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1601191989955" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1601191989954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1601191989954" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1601191989955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-2560.-131.2560.1400@0.0.1920.1040" timestamp="1601191989955" />
+  </component>
+</project>
